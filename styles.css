@@ -29,8 +29,8 @@ body {
 }
 
 form.d-flex {
-    max-width: 500px; /* Limita o tamanho máximo no desktop */
-    width: 100%; /* Mantém responsivo no mobile */
+    max-width: 500px; /* limita o tamanho máximo no desktop */
+    width: 100%; /* Deixa responsivo no mobile */
 }
 
 #search-result {
@@ -127,10 +127,10 @@ form.d-flex button {
     overflow: hidden;
 }
 .card-img-top {
-    width: 100%; /* Ajusta a largura para ocupar todo o espaço disponível */
-    height: 200px; /* Defina uma altura fixa para os cards */
-    object-fit: contain; /* A imagem será redimensionada para caber completamente dentro do card */
-    background-color: #f8f9fa; /* Cor de fundo para evitar espaços vazios feios */
+    width: 100%; 
+    height: 200px; 
+    object-fit: contain; 
+    background-color: #f8f9fa; 
 }
 
 
